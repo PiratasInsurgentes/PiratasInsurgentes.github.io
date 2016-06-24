@@ -43,7 +43,7 @@ Assim, os Piratas Insurgentes aceitam doacoes via Bitcoin:
 
 ## Lista de membros
 
-[Pessoas no Partido](piratasinsurgentes.github.io/membros/)
+[Pessoas no Partido](membros/)
 
 ## Estatuto
 
