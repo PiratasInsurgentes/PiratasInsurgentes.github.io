@@ -1,4 +1,4 @@
-# Piratas Insurgentes - About Us
+# Piratas Insurgentes BR - About Us
 
 ## O que eh isso ?
 
@@ -32,16 +32,27 @@ Os Piratas Insurgentes nao tem articulador, nao tem comite gestor e nao obedece 
 
 Existe um estatuto minimo, descrito na proxima secao.
 
-Tudo eh passivel de ser mudado inclusive essa pagina, por meio do mecanismo descritos na proxima secao. Por ser hospedada em um repositorio git, poderemos observar a evolucao do coletivo.
+Tudo eh passivel de ser mudado inclusive essa pagina e qualquer parte do estatuto. Por ser hospedada em um repositorio git, poderemos observar a evolucao do coletivo.
+
+Os Piratas Insurgentes BR tentam ao maximo usar ferramentas gratuitas e opensource. Mas no caso do DemocracyOS, que estah hospedado em um servidor Heroku gratuitamente, eh possivel que com o tempo os piratas insurgentes resolvam ampliar e pagar a expansao do heroku ou outro servico.
+
+Assim, os Piratas Insurgentes aceitam doacoes via Bitcoin:
+
+** 1Gr1ALp8txuwDADMQ9jEJM4exqKPXNrhsE **
+
+
+## Lista de membros
+
+[Pessoas no Partido](piratasinsurgentes.github.io/membros/)
 
 ## Estatuto
 
 ```
 Capitulo I - Sobre os Insurgentes
 
-    Art 1o - Somos um grupo de potenciais membros do Partido Pirata que pretende entender mais a organizacao e propor mudancas que sejam condicionais para a nossa entrada no partido.
+    Art 1 - Somos um grupo de potenciais membros do Partido Pirata que pretende entender mais a organizacao e propor mudancas que sejam condicionais para a nossa entrada no partido.
 
-    Art 2o - Sao clausulas petreas dos Insurgentes:
+    Art 2 - Sao clausulas petreas dos Insurgentes:
 
         I - Qualquer parte do estatuto pode ser mudada a qualquer momento pelos Insurgentes
         II - Horizontalidade de decisoes e redundancia de informacoes e responsabilidades
@@ -64,22 +75,32 @@ Capitulo II - Mecanismos de mudancas
 
     Art 6 - Para que deliberacoes sejam encaminhadas aos piratas, pelo menos 1/2 do total dos membros devem votar no DemocracyOS
 
+Capitulo III - Como virar membro
+
+    Art 7 - Mande um e-mail para labpirata@opmbx.org e nao seja filiado ao partido pirata do Brasil
+
 Capitulo III - Dos afastamentos automaticos
 
-    Art 7 - Abandono das votacoes do grupo, ou alteracao das informacoes nao seguindo as regras do grupo, qualifica como os dois unicos motivos para que qualquer numero de membros vote para o afastamento do membro seja legitimizado, invalidando o Art 5 desse estatuto. 
+    Art 8 - Abandono das votacoes do grupo, ou alteracao das informacoes nao seguindo as regras do grupo, qualifica como os dois unicos motivos para que qualquer numero de membros vote para o afastamento do membro seja legitimizado, invalidando o Art 5 desse estatuto. 
 
-    Art 8 - Se levantada a votacao para afastamento do membro e o mesmo se pronuncie, a votacao eh suspensa. O nome do membro ira para observacao por 3 meses no caso de abandono de votacoes e indefinidamente por alteracao de informacao indevida.
+    Art 9 - Se levantada a votacao para afastamento do membro e o mesmo se pronuncie, a votacao eh suspensa. O nome do membro ira para observacao por 3 meses no caso de abandono de votacoes e indefinidamente por alteracao de informacao indevida.
 
-    Art 9 - Se reincidente, a votacao serah re-iniciada sem validade do Art 8.
+    Art 10 - Se reincidente, a votacao serah re-iniciada sem validade do Art 8.
+
+    Art 11 - Se o membro for afastado por abandono reincidente, em 1 mes o mesmo pode pedir para voltar ao grupo.
 
 Capitulo IV - Controle
 
-    Art 10 - Todos os membros tem o direito de ter o controle sobre o e-mail oficial dos Insurgentes: labpirata@opmbx.org
+    Art 11 - Todos os membros tem o direito de ter o controle sobre o e-mail oficial dos Insurgentes: labpirata@opmbx.org
     
-    Art 11 - Para pedir controle basta mandar um e-mail para labpirata@opmbx.org e alguem ira responder 
+    Art 12 - Para pedir controle basta mandar um e-mail para labpirata@opmbx.org e alguem ira responder e passar os dados.
 
 ```
 
 ## Consideracoes Finais
 
-Have Fun !!!
+Esse eh um projeto decentralizado e qualquer tentativa de *mudar* as poucas clausulas petreas devem ser vistas com cuidado. Mas, novamente, pode ser feita a qualquer momento.
+
+** Paranoia mode on **
+
+Deve-se tambem tomar cuidado para que o grupo nao se desarticule. As *regras* sao claras e simples, e o pipeline de informacao eh central.
