@@ -2,15 +2,15 @@
 
 ## O que eh isso ?
 
-Isso eh uma organizacao pirata para hackear o [Partido Pirata do Brasil](http://partidopirata.org) para nao associados.
+Isso eh uma organizacao pirata para nao associados hackear o [Partido Pirata do Brasil](http://partidopirata.org).
 
 ## Objetivo 
 
 ** Laboratorio dos Piratas **
 
-Testar novas ferramentas e metodologia relacionadas com horizontalizacao de coletivos - uma das principais dificuldades que os Piratas Brasileiros tem.
+Testar novas ferramentas e metodologia relacionadas com horizontalizacao de coletivos mantendo a eficiencia - uma das principais dificuldades que os Piratas Brasileiros tem.
 
-Portanto, aqui eh um laboratorio para se tentar formas de democracia iniciando pela democracia liquida ou Liquid Democracy.
+Portanto, aqui eh um laboratorio para se tentar formas de democracia. De inicio, vamos tentar trabalhar na direcao de democracia liquida ou Liquid Democracy.
 
 ** Hacking o Partido Pirata do Brasil **
 
@@ -52,9 +52,9 @@ Capitulo I - Sobre os Insurgentes
     
         I - Comunicao informal eh feita no canal do telegram : Piratas Insurgentes - https://telegram.me/piratasinsurgentes
     	II - Pautas e propostas sao direcionadas para os pads do rise.up - https://pad.riseup.net/
-        III - Propostas de mudancas internas dos Insurgentes sao feitas no Loomio - 
+        III - Propostas de mudancas internas dos Insurgentes sao feitas no Loomio - https://www.loomio.org/g/WOH219QD/piratas-insurgentes
         IV - Propostas de mudancas ao Partido Pirata sao votadas no democracy OS - https://labpirata.herokuapp.com/
-        V - Este estatuto e demais informacoes assim como a lista oficial de membros serao mantidas no github - https://github.com/PiratasInsurgentes/
+        V - Este estatuto, a lista oficial de membros, outras informacoes e tracker de tarefas serao mantidas no github - https://github.com/PiratasInsurgentes/
 
 Capitulo II - Mecanismos de mudancas
 
@@ -72,5 +72,14 @@ Capitulo III - Dos afastamentos automaticos
 
     Art 9 - Se reincidente, a votacao serah re-iniciada sem validade do Art 8.
 
+Capitulo IV - Controle
+
+    Art 10 - Todos os membros tem o direito de ter o controle sobre o e-mail oficial dos Insurgentes: labpirata@opmbx.org
+    
+    Art 11 - Para pedir controle basta mandar um e-mail para labpirata@opmbx.org e alguem ira responder 
 
 ```
+
+## Consideracoes Finais
+
+Have Fun !!!
