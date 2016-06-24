@@ -91,7 +91,7 @@ Capitulo III - Dos afastamentos automaticos
 
 Capitulo IV - Controle
 
-    Art 11 - Todos os membros tem o direito de ter o controle sobre o e-mail oficial dos Insurgentes: labpirata@opmbx.org
+    Art 11 - Todos os membros tem o direito de ter o controle sobre o e-mail oficial dos Insurgentes labpirata@opmbx.org e consequentemente sobre todo o resto do sistema.
     
     Art 12 - Para pedir controle basta mandar um e-mail para labpirata@opmbx.org e alguem ira responder e passar os dados.
 
