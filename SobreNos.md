@@ -62,10 +62,11 @@ Capitulo I - Sobre os Insurgentes
     Art 3 - Comunicacao e Deliberacoes
     
         I - Comunicao informal eh feita no canal do telegram : Piratas Insurgentes - https://telegram.me/piratasinsurgentes
-    	II - Pautas e propostas sao direcionadas para os pads do rise.up - https://pad.riseup.net/
+    	II - Pautas e propostas sao direcionadas para os pads do rise.up - https://pad.riseup.net/ e depois anexadas em MarkDown aqui em /pautas/
         III - Propostas de mudancas internas dos Insurgentes sao feitas no Loomio - https://www.loomio.org/g/WOH219QD/piratas-insurgentes
         IV - Propostas de mudancas ao Partido Pirata sao votadas no democracy OS - https://labpirata.herokuapp.com/
         V - Este estatuto, a lista oficial de membros, outras informacoes e tracker de tarefas serao mantidas no github - https://github.com/PiratasInsurgentes/
+        VI - Reuniaoes on-line serao feitas usando o servidor dos piratas no mumble: https://mumble.partidopirata.org/
 
 Capitulo II - Mecanismos de mudancas
 
@@ -89,11 +90,17 @@ Capitulo III - Dos afastamentos automaticos
 
     Art 11 - Se o membro for afastado por abandono reincidente, em 1 mes o mesmo pode pedir para voltar ao grupo.
 
-Capitulo IV - Controle
+Capitulo IV - Controle e reunioes
 
     Art 11 - Todos os membros tem o direito de ter o controle sobre o e-mail oficial dos Insurgentes labpirata@opmbx.org e consequentemente sobre todo o resto do sistema.
     
     Art 12 - Para pedir controle basta mandar um e-mail para labpirata@opmbx.org e alguem ira responder e passar os dados.
+
+    Art 13 - Nenhuma reuniao oficial eh fechada.
+
+    Art 14 - Qualquer membro pode chamar reuniao oficial no mumble.
+
+    Art 15 - Para ser oficial a reuniao precisa ser adicionada a lista-calendario oficial do grupo em /calendario/ com no minimo 5 dias de antecedencia.
 
 ```
 
@@ -103,4 +110,4 @@ Esse eh um projeto decentralizado e qualquer tentativa de *mudar* as poucas clau
 
 ** Paranoia mode on **
 
-Deve-se tambem tomar cuidado para que o grupo nao se desarticule. As *regras* sao claras e simples, e o pipeline de informacao eh central.
+Deve-se tambem tomar cuidado para que o grupo nao se desarticule. As *regras* sao claras e simples, e o pipeline de informacao eh central. Apesar de ser flexivel, os membros deveriam atentar para mudancas que fogem a esses principios.
