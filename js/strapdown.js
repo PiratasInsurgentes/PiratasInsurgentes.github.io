@@ -364,8 +364,8 @@ var PR=win['PR']={'createSimpleLexer':createSimpleLexer,'registerLangHandler':re
       origin = scriptEls[i].src;
     }
   }
-  var originBase = origin.substr(0, origin.lastIndexOf('/'));
-
+  //var originBase = origin.substr(0, origin.lastIndexOf('/'));
+  var originBase = 'http://strapdownjs.com/v/0.2/'
   // Get theme
   var theme = markdownEl.getAttribute('theme') || 'bootstrap';
   theme = theme.toLowerCase();
