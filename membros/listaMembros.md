@@ -14,7 +14,7 @@
 | Exemplo 2   |  afastamento  | 06/09/2016 | link pro loomio |
 
 
-## Membros expulsos por tempo limitado
+## Membros afastados por tempo limitado
 
 | Nome / Nick | Motivo        | Data | Periodo | processo |
 |-------------|---------------|------|---------|----------| 
@@ -27,5 +27,5 @@
 | Nome / Nick | Motivo        | Data | Processo | 
 |-------------|---------------|------|---------|
 | Exemplo 5   | reinc. sacanagem com documentaca |  06/20/2016  | links pro loomio |
-| Exemplo 6   |  sacanagem com documentacao | 06/09/2016 | 3 meses | links pro loomio |
+| Exemplo 6   |  sacanagem com documentacao | 06/09/2016 | links pro loomio |
 
