@@ -1,4 +1,4 @@
-#![](./220px-Piratpartiet.ins-br.svg) Piratas Insurgentes BR - About Us
+#![](./220px-Piratpartiet.ins-br.svg = 100px) Piratas Insurgentes BR - About Us
 
 ## O que eh isso ?
 
