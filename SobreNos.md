@@ -26,9 +26,15 @@ Os Insurgentes nao tem como objetivo competir com os Piratas e sim de funcionar 
 
 Se voce jah sabe que quer entrar no Partido Pirata com certeza, [aqui](http://partidopirata.org/associe-se/) voce encontra como faze-lo sem passar pelos Insurgentes.
 
+## Como entrar nos Piratas Insurgentes BR
+
+Basta mandar um e-mail para labpirata@opmbx.org
+
 ## Como funciona
 
 Os Piratas Insurgentes nao tem articulador, nao tem comite gestor e nao obedece as leis Piratas, mas as observa como um guia nao oficial.
+
+#### Voce jah entra sendo "dono" do grupo e jah pode imediatamente propor qualquer mudanca sobre qualquer coisa.
 
 Existe um estatuto minimo, descrito na proxima secao.
 
