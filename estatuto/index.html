@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<title>Piratas Insurgentes - Estatuto </title>
+
+<!-- <div id = "md"> </div> -->
+
+<script type="text/javascript">
+
+	var xmlhttp, text;
+	xmlhttp = new XMLHttpRequest();
+	xmlhttp.open('GET', './Estatuto.md', false);
+	xmlhttp.send();
+	//document.getElementById('md')
+	var alltext = '<xmp theme="Spacelab" style="display:none;">' + xmlhttp.responseText + '</xmp>'
+	document.write(alltext);
+</script>
+
+<!-- <xmp theme="united" style="display:none;"> -->
+
+<!-- </xmp> -->
+
+<script src="https://piratasinsurgentes.github.io/js/strapdown.js"></script>
+</html>
