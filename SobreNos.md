@@ -40,12 +40,6 @@ Existe um estatuto minimo, descrito na proxima secao.
 
 Tudo eh passivel de ser mudado inclusive essa pagina e qualquer parte do estatuto a qualquer momento. Por ser hospedada em um repositorio git, poderemos observar a evolucao do coletivo.
 
-Os Piratas Insurgentes BR tentam ao maximo usar ferramentas gratuitas e opensource. Mas no caso do DemocracyOS, que estah hospedado em um servidor Heroku gratuitamente, eh possivel que com o tempo os piratas insurgentes resolvam ampliar e pagar a expansao do heroku ou outro servico.
-
-Assim, os Piratas Insurgentes aceitam doacoes via Bitcoin:
-
-** 1Gr1ALp8txuwDADMQ9jEJM4exqKPXNrhsE **
-
 ## Mais informacoes:
 
 ### Canal Telegram para conhecer outros Piratas Insurgentes : [Piratas Insurgentes BR](https://telegram.me/piratasinsurgentes)
