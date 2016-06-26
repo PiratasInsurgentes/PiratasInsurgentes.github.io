@@ -47,11 +47,11 @@ Assim, os Piratas Insurgentes aceitam doacoes via Bitcoin:
 ### [Pautas](pautas/)
 ### [Calendario de Reunioes](calendario/)
 
-### [Canal Telegram : Piratas Insurgentes BR](https://telegram.me/piratasinsurgentes)
-### [Loomio](https://www.loomio.org/g/WOH219QD/piratas-insurgentes)
-### [democracy OS](https://labpirata.herokuapp.com/)
-### [Github](https://github.com/PiratasInsurgentes/)
-### [mumble - pirateado do Partido Pirata](https://mumble.partidopirata.org/)
+### Canal Telegram : [Piratas Insurgentes BR](https://telegram.me/piratasinsurgentes)
+### Deliberacoes Internas [Loomio](https://www.loomio.org/g/WOH219QD/piratas-insurgentes)
+### Peticoes para o Partido Pirata : [democracy OS](https://labpirata.herokuapp.com/)
+### Repositorio de Informacoes : [Github](https://github.com/PiratasInsurgentes/)
+### Reunioes on-line : [mumble - pirateado do Partido Pirata](https://mumble.partidopirata.org/)
 
 ## Consideracoes Finais
 
