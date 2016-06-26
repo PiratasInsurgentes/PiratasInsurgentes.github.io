@@ -36,7 +36,7 @@ Os Piratas Insurgentes nao tem articulador, nao tem comite gestor e nao obedece 
 
 #### Voce jah entra sendo "dono" do grupo e jah pode imediatamente propor qualquer mudanca sobre qualquer coisa.
 
-Existe um estatuto minimo, descrito na proxima secao.
+Existe um [estatuto](estatuto/) minim0
 
 Tudo eh passivel de ser mudado inclusive essa pagina e qualquer parte do estatuto a qualquer momento. Por ser hospedada em um repositorio git, poderemos observar a evolucao do coletivo.
 
