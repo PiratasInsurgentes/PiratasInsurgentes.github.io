@@ -43,7 +43,7 @@ Tudo eh passivel de ser mudado inclusive essa pagina e qualquer parte do estatut
 ## Mais informacoes:
 
 ### Canal Telegram para conhecer outros Piratas Insurgentes : [Piratas Insurgentes BR](https://telegram.me/piratasinsurgentes)
-### Deliberacoes Internas : [Loomio](https://www.loomio.org/g/WOH219QD/piratas-insurgentes)
+### Deliberacoes Internas : [Adhocracy](https://piratasinsurgentes.adhocracy.de/instance/piratasinsurgentes)
 ### Peticoes para o Partido Pirata : [democracy OS](https://labpirata.herokuapp.com/)
 ### Repositorio de Informacoes : [Github](https://github.com/PiratasInsurgentes/)
 ### Reunioes on-line : [mumble - pirateado do Partido Pirata](https://mumble.partidopirata.org/)

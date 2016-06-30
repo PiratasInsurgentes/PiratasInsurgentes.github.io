@@ -17,7 +17,7 @@ O estatuto estah em constante votacao na pagina dos [Piratas Insurgentes BR no A
     
    * I - Comunicacao informal eh feita no canal do telegram : [Piratas Insurgentes BR](https://telegram.me/piratasinsurgentes)
    * II - Pautas e propostas sao direcionadas para os [pads do rise.up]( https://pad.riseup.net/) e depois anexadas em MarkDown aqui em [Pautas](pautas/)
-   * III - Propostas de mudancas internas dos Insurgentes sao feitas no [Loomio](https://www.loomio.org/g/WOH219QD/piratas-insurgentes)
+   * III - Propostas de mudancas internas dos Insurgentes sao feitas no [Adhocracy](https://piratasinsurgentes.adhocracy.de/instance/piratasinsurgentes)
    * IV - Propostas de mudancas ao Partido Pirata sao votadas no [democracy OS](https://labpirata.herokuapp.com/)
    * V - Este estatuto, a lista oficial de membros, outras informacoes e tracker de tarefas serao mantidas no [github](https://github.com/PiratasInsurgentes/)
    * VI - Reuniaoes on-line serao feitas usando o servidor dos piratas no [mumble](https://mumble.partidopirata.org/)
@@ -26,7 +26,7 @@ O estatuto estah em constante votacao na pagina dos [Piratas Insurgentes BR no A
 
 ** Art 4 ** - Qualquer aspecto do partido pode ser votada internamente. Exemplos incluem mas nao sao limitados a : afastamento de membros, mudancas das clausulas petreas, extincao dos Insurgentes e etc.
 
-** Art 5 ** - Para que mudancas internas sejam aprovadas, pelo menos 2/3 do total de membros cadastrados no Loomio devem votar para mudancas internas.
+** Art 5 ** - Para que mudancas internas sejam aprovadas, pelo menos 2/3 do total de membros supervisores cadastrados no Adhocracy devem votar para mudancas internas.
 
 ** Art 6 ** - Para que deliberacoes sejam encaminhadas aos piratas, pelo menos 1/2 do total dos membros devem votar no DemocracyOS
 
